@@ -1,0 +1,18 @@
+name: datagram_socket
+description: A buffered interface to a UDP socket.
+version: 1.0.0
+
+repository: https://github.com/dart-community/datagram-socket
+issue_tracker: https://github.com/dart-community/datagram-socket/issues
+
+topics:
+  - network
+  - socket
+  - udp
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
